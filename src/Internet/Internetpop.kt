@@ -1,0 +1,4 @@
+package Internet
+
+interface Internetpop {
+}

@@ -1,0 +1,4 @@
+package Payme
+
+interface Paymefunksiya {
+}

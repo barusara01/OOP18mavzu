@@ -1,0 +1,4 @@
+package Internet
+
+class Internet {
+}

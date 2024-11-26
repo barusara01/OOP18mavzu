@@ -1,0 +1,4 @@
+package Payme
+
+class Payme {
+}
